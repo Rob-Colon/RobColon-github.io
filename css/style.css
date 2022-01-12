@@ -419,10 +419,14 @@ header {
   max-width: 1000px;
   margin: 0 auto;
 }
+
 .portfolio-item-individual p {
   max-width: 700px;
   margin-left: auto;
   margin-right: auto;
+}
+.portfolio-item-individual img {
+  margin: auto;
 }
 .portfolio-item-individual a {
   display: block;
