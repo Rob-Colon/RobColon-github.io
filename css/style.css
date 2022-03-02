@@ -362,6 +362,7 @@ header {
   overflow: hidden;
   max-width: 240px;
   max-height: 240px;
+  border-radius: 20px;
 }
 .portfolio__img {
   transition: transform 750ms cubic-bezier(0.5, 0, 0.5, 1), opacity 250ms linear;
